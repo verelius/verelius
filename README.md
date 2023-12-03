@@ -9,5 +9,3 @@ verelius/verelius is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-portofolio
-saya belum memiliki pengalaman dibidang UI-UX tetapi saya ingin sekali belajar mengenai ini untuk masa depan saya.
